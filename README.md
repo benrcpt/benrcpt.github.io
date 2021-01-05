@@ -39,7 +39,7 @@
       right: 0;
       bottom: ;
       float: left;
-      margin-bottom: 50px;
+      margin-bottom: 10px;
       margin-top: 20px;
       width: 150px;
       
