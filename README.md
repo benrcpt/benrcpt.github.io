@@ -171,7 +171,14 @@
 }
 
 
- 
+ p{
+ float: left;
+ margin-left: 20px;
+}
+p .tulisan{
+  margin-top: 400px;
+
+}
 
 
 
@@ -222,7 +229,11 @@
         name="pilih"><h4>treatment</h4>
      </div>
       
-  
+     
+      <p class="tulisan">
+       RDI (dahulu merupakan singkatan dari Radio Dangdut Indonesia) adalah sebuah stasiun radio yang di bawah naungan MNC Radio Networks milik MNC dan kakak perusahaan PT. Serum Nagari Buana. Dahulu dikenal dengan sebutan Radio Monalisa, kemudian Radio Dangdut TPI. Sejak 20 Oktober 2010, bersamaan dengan pergantian nama udara TPI menjadi MNCTV, Radio Dangdut TPI berganti nama udara menjadi Radio Dangdut Indonesia dan sejak 20 Mei 2015 hingga sekarang nama udaranya RDI.
+      </p>
+    
     
     
     
