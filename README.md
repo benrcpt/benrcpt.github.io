@@ -16,12 +16,12 @@
    }
 
    .container {
-        position: fixed;
-        top: 0;
-        bottom: 0;
-       left: 0;
-       right: 0;
-       height: 150px;
+        PosItion:fixed;
+        Left:0;
+        right:0;
+        Bottom:0
+        Top:0;
+        height: 150px;
         box-shadow: 0 2px 10px 0;
         margin-top: 20px;
         font-size: 35px;
@@ -40,7 +40,6 @@
       bottom: ;
       float: left;
       margin-bottom: 10px;
-      margin-top: 20px;
       width: 150px;
       
   }
